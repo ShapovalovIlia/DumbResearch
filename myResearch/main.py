@@ -1,6 +1,9 @@
 import os
 from json_to_excel_converter import JsonToExcelConverter
-from excel_graph_plotter import ExcelGraphPlotter  # Ensure to import this class
+from excel_graph_plotter import (
+    ExcelGraphPlotter,
+)  # Ensure to import this class
+
 
 def find_json_files_and_convert(folder_path):
     """
@@ -16,12 +19,14 @@ def find_json_files_and_convert(folder_path):
     files = os.listdir(folder_path)
 
     # Filter and convert files that end with .json
-    json_files = [file for file in files if file.endswith('.json')]
+    json_files = [file for file in files if file.endswith(".json")]
     if json_files:
         print("JSON files found:")
         for file in json_files:
             json_file_path = os.path.join(folder_path, file)
-            excel_file_path = os.path.join(folder_path, f"{os.path.splitext(file)[0]}.xlsx")
+            excel_file_path = os.path.join(
+                folder_path, f"{os.path.splitext(file)[0]}.xlsx"
+            )
             converter = JsonToExcelConverter(json_file_path, excel_file_path)
             converter.save_to_excel()
 
@@ -31,9 +36,10 @@ def find_json_files_and_convert(folder_path):
     else:
         print("No JSON files found in the directory.")
 
+
 # Example usage:
 folder_path = (
-    'C:/Users/georg/Desktop/COMP 3647 - Human-AI Interaction Design/'
-    'Assignment 2 Data/'
+    "C:/Users/georg/Desktop/COMP 3647 - Human-AI Interaction Design/"
+    "Assignment 2 Data/"
 )
 find_json_files_and_convert(folder_path)

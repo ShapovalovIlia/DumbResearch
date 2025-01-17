@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "humanai-master"
+name = "dumbresearch"
 version = "0.1.0"
 description = ""
 authors = ["ShapovalovIlia <ilia-shapvalov04@mail.ru>"]
@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.12"
 pandas = "^2.2.3"
 matplotlib = "^3.10.0"
+hume = "^0.7.5"
+requests = "^2.32.3"
+ruff = "^0.9.2"
 
 
 [build-system]
