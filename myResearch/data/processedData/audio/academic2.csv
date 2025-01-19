@@ -1,0 +1,63 @@
+Time,text
+3.92,"Okay, this time I would like to learn how to find a Nash equilibrium in game theory."
+18.72,Tell me how to find Nash equilibrium.
+22.64,Let's start by simple and dive deeper.
+26.37,Deeper.
+37.89,"Okay, it says to understand with the structure represent the game."
+43.01,"Okay, the valuable point here is building a payoff matrix."
+46.746,One step.
+49.138,"The next step, check if the equilibrium even exists."
+55.46,Okay.
+60.74,"Okay, let's say I don't know how to utilize the mixed strategies."
+64.412,What is the mixed strategies?
+79.79,"Oh, basically so."
+81.278,"Okay, from what I understood, the mixed strategies is when we assign some probability to any of the available moves of the player and then we calculate the total payoff."
+98.67,Okay.
+102.67,Or here is considered the games like rock paper systems.
+105.574,I guess I will never ever lose it again.
+108.79,Funny.
+110.39,"Okay, how to calculate the mixed."
+120.526,Mixed.
+121.67,From what I understood there is pure Nash equilibrium and mixed Nash equilibrium.
+127.678,How to calculate mixed Nash equilibrium Understand the game.
+150.018,"Okay, write the payoff matrix."
+153.258,Define mixed strategy.
+155.41,Assign probabilities.
+157.018,"Okay, as I've said, use different condition."
+163.41,"Okay, everything, all of that."
+167.73,"Okay, we see the example who's matching pennies?"
+174.53,How do I build the payoff matrix?
+178.33,If there is let's say three players from what I understood because the building a payoff metrics is crucial.
+198.53,More than two players ident.
+209.282,"Okay, identifying the strategies."
+212.42,"List strategies for every player, number of strategies available to every."
+224.94,"Okay, from what I understand, the more players you have, the more matrixes you just built."
+230.54,You cannot suppress it in a one huge matrix.
+235.26,"Okay, this is understandable."
+240.04,"Okay, let's then."
+241.208,Let's then try to calculate the pure mix the Nash equilibrium on a.
+248.36,In a game where there are more than three players.
+251.224,Let's say the game is of the four players.
+259.0,Find the Nash equilibrium in the game with four players and construct payoff metrics.
+284.54,Let's see defining four players.
+290.292,All possible strategies for the players.
+292.402,"Okay, as I said, as was said previously, building."
+296.834,Ah.
+297.17,"Okay, building this strategy profile."
+302.53,"To be honest, I don't understand much what is going on."
+321.02,The essential tools will be symbolic solvers in Matlab.
+333.74,"Okay, to be honest, I don't understand this."
+339.82,Please explain simpler.
+354.74,"Okay, it will now it stated well, now it's explained a bit more about assigning the payoffs."
+364.26,"Well, it helps, but not that much, to be honest."
+372.67,Okay.
+373.174,Where I can learn about it.
+410.84,"Okay, I will open the."
+412.712,"Okay, I will definitely take a look at the Han Academy."
+420.85,Let's summarize it.
+433.25,Summarize all the previous information.
+454.62,Why actually it is even important to find Nash Equivia.
+458.86,Why is it?
+487.43,"Okay, from what I understand, we will definitely need Nash Equilibrium to find the logical way to predict and understand the strategic behavior in various fields."
+507.67,"But okay, to be honest, I haven't utilized it ever in the real life."
+515.59,Maybe that's why it's a bit difficult for me to understand how to use it properly.

@@ -1,0 +1,50 @@
+Time,text
+5.12,"Okay, I would like to learn again about the greedy algorithm."
+17.12,Tell me about greedy algorithm.
+35.13,"I see the data regarding the key characteristics, how it works, feasibility, advantages and disadvantages."
+47.37,Okay.
+50.65,And I see the examples of the greedy algorithms.
+55.65,"Cruise, skulls, prims."
+63.81,"Okay, show me the use."
+69.09,There is a common knapsack problem.
+71.282,I would like to see how the greedy algorithm is used on the knapsack problem.
+79.33,Show me on the simple example how nap of simple example of greedy algorithm used on a knapsack problem.
+112.03,"Okay, we see the very basic example with the nav stack with the capacity of 50 and the three items with the assigned weight and values."
+125.31,The solution will be to take first and second item and take only two thirds of the item number three.
+138.46,"Well, okay, understandable."
+145.58,Let's see it on a more advanced example.
+154.86,"No, actually I would like to see the examples where the greedy algorithm does not work, in which situations greedy algorithm is a bad choice."
+199.88,"Okay, for example, well, it explains again on a knapsack problem, for example, if it's a one problem where we cannot take fractions of items, greedy approach may fail."
+212.808,"Okay, okay."
+219.03,"Well, in then if the greedy algorithm does not work, what do we need to use?"
+241.68,"But to be honest, my purpose is just to learn about the greedy algorithm."
+247.352,"Let's say, where can I practically learn about greedy algorithm?"
+271.35,"Coursera, Adex, Udemy."
+273.806,"Well, I won't use the udemy since I need to pay for it."
+279.35,"Coding platforms, leet code, delete code is good."
+285.046,"Okay, the lead code can be used."
+292.56,Actually there is a website W three schools haven't used it in a while.
+299.04,Is there anything about the greedy algorithm?
+303.88,Let's ask that.
+310.88,Can I learn about it on W33 schools?
+322.73,"Ah, yeah."
+323.458,It's in a data structures and algorithm tutorial.
+327.85,But I believe there is a very basic knowledge of that.
+332.09,"Okay, then let's move on."
+341.63,Is the greedy algorithm used nowadays?
+347.79,Is the greedy.
+352.83,Rhythm used today?
+364.83,"Well, it is interesting."
+367.158,"It's used in network and communication and load balancing, scheduling and resource allocation."
+381.28,"Okay, I understand how it's used in a job scheduling, activities, financial system."
+388.864,"Well, obviously financial system, artificial intelligence, graphics and gaming."
+396.81,"Okay, not going to dive deep in that."
+410.81,Just to clarify the last question.
+412.938,Are there better algorithms in general?
+433.26,"Okay, I guess I haven't."
+446.22,I see.
+447.67,"Well, yeah, my question wasn't right because the algorithm cannot be worse or better."
+457.398,It depends on the problem.
+459.59,"Yeah, this chatgpt is right."
+463.19,"Okay, I'm satisfied with that answer."
+466.31,"Actually, where can I learn."
